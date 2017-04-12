@@ -1,2 +1,3 @@
 # hello-world
-Beginning repository
+
+Just my first repository. Nothing to see here.
